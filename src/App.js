@@ -1,4 +1,5 @@
 import React from "react";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import About from "./Components/About";
 import Contact from "./Components/Contact";
 import Error from "./Components/Error";
