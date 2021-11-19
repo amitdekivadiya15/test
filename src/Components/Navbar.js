@@ -13,6 +13,9 @@ const Navbar = () => {
       <NavLink exact activeClassName="active_class" to="/user/amit">
         Users
       </NavLink>
+      <NavLink activeClassName="active_class" to="/search">
+        Search
+      </NavLink>
     </>
   );
 };
