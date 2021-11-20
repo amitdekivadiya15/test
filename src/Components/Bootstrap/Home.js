@@ -1,7 +1,18 @@
 import React from "react";
+import web from "../../assets/fotis-fotopoulos-SyvsTmuuZyM-unsplash.jpg";
+import Common from "./Common";
 
 const Home = () => {
-  return <h1>Welcome to the Home page</h1>;
+  return (
+    <>
+      <Common
+        name="Grow Your business with"
+        imgsrc={web}
+        visit="/service"
+        btname="Get Started"
+      />
+    </>
+  );
 };
 
 export default Home;

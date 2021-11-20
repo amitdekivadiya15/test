@@ -7,11 +7,11 @@ const Navbar = () => {
       <div className="container-fluid nav bg">
         <div className="row">
           <div className="col-12 mx-auto">
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+            <nav className="navbar navbar-expand-lg navbar-light bg-light">
               <div className="container">
-                <a className="navbar-brand" href="#">
-                  Navbar
-                </a>
+                <NavLink exact className="navbar-brand" to="/">
+                  AmitTechnical
+                </NavLink>
                 <button
                   className="navbar-toggler"
                   type="button"
@@ -29,28 +29,42 @@ const Navbar = () => {
                 >
                   <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
                     <li className="nav-item">
-                      <a
+                      <NavLink
+                        activeClassName="menu_active"
+                        exact
                         className="nav-link active"
                         aria-current="page"
-                        href="#"
+                        to="/"
                       >
                         Home
-                      </a>
+                      </NavLink>
                     </li>
                     <li className="nav-item">
-                      <a className="nav-link" href="#">
+                      <NavLink
+                        activeClassName="menu_active"
+                        className="nav-link"
+                        to="/about"
+                      >
                         About
-                      </a>
+                      </NavLink>
                     </li>
                     <li className="nav-item">
-                      <a className="nav-link" href="#">
+                      <NavLink
+                        activeClassName="menu_active"
+                        className="nav-link"
+                        to="/service"
+                      >
                         Services
-                      </a>
+                      </NavLink>
                     </li>
                     <li className="nav-item">
-                      <a className="nav-link" href="#">
+                      <NavLink
+                        activeClassName="menu_active"
+                        className="nav-link"
+                        to="/contact"
+                      >
                         Contact
-                      </a>
+                      </NavLink>
                     </li>
                   </ul>
                 </div>

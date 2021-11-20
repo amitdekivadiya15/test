@@ -8,7 +8,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 // import Search from "./Components/Search";
 
 // import Navbar from "./Components/Navbar";
-import { Route, Switch } from "react-router-dom";
+// import { Route, Switch } from "react-router-dom";
 import App1 from "./Components/Bootstrap/App1";
 
 const App = () => {
