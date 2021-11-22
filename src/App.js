@@ -9,7 +9,8 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
 // import Navbar from "./Components/Navbar";
 // import { Route, Switch } from "react-router-dom";
-import App1 from "./Components/Bootstrap/App1";
+// import App1 from "./Components/Bootstrap/App1";
+import App2 from "./Components/Todoreact/App2";
 
 const App = () => {
   return (
@@ -26,7 +27,9 @@ const App = () => {
       {/* <About />
       <Contact /> */}
 
-      <App1 />
+      {/* <App1 /> */}
+
+      <App2 />
     </>
   );
 };
