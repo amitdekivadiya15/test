@@ -10,7 +10,8 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 // import Navbar from "./Components/Navbar";
 // import { Route, Switch } from "react-router-dom";
 // import App1 from "./Components/Bootstrap/App1";
-import App2 from "./Components/Todoreact/App2";
+// import App2 from "./Components/Todoreact/App2";
+import App3 from "./Components/TabMenu/App3";
 
 const App = () => {
   return (
@@ -29,7 +30,9 @@ const App = () => {
 
       {/* <App1 /> */}
 
-      <App2 />
+      {/* <App2 /> */}
+
+      <App3 />
     </>
   );
 };
