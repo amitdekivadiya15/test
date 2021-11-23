@@ -88,6 +88,15 @@ const Menu = [
     price: "10₹",
     description: "Indian kid favourite food",
   },
+
+  {
+    id: 11,
+    image: "samosa-24578861.jpg",
+    name: "samosa",
+    category: "fastfood",
+    price: "10₹",
+    description: "Indian kid favourite food",
+  },
 ];
 
 export default Menu;
