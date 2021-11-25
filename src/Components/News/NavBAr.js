@@ -1,15 +1,12 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 
 export class NavBAr extends Component {
-  static propTypes = {};
-
   render() {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
           <div className="container-fluid">
-            <a className="navbar-brand" href="#">
+            <a className="navbar-brand" href="/">
               News
             </a>
             <button
@@ -34,8 +31,46 @@ export class NavBAr extends Component {
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/">
-                    Link
+                  <a className="nav-link" href="/about">
+                    About
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="/business">
+                    Business
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="/entertainment">
+                    Entertainment
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="/general">
+                    General
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="/health">
+                    Health
+                  </a>
+                </li>
+
+                <li className="nav-item">
+                  <a className="nav-link" href="/science">
+                    Science
+                  </a>
+                </li>
+
+                <li className="nav-item">
+                  <a className="nav-link" href="/sports">
+                    Sports
+                  </a>
+                </li>
+
+                <li className="nav-item">
+                  <a className="nav-link" href="/technology">
+                    Technology
                   </a>
                 </li>
               </ul>

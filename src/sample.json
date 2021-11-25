@@ -1,266 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 218,
+    "totalResults": 38,
     "articles": [
-    {
-    "source": {
-    "id": null,
-    "name": "Freakonomics.com"
-    },
-    "author": "Stephen J. Dubner",
-    "title": "How Do You Cure a Compassion Crisis? (Ep. 444 Rebroadcast)",
-    "description": "Patients in the U.S. healthcare system often feel they’re treated with a lack of empathy. Doctors and nurses have tragically high levels of burnout. Could fixing the first problem solve the second? And does the rest of society need more compassion too?\nThe po…",
-    "url": "https://freakonomics.com/podcast/compassionrebroadcast/",
-    "urlToImage": "https://freakonomics.com/wpcontent/uploads/2020/08/fr.fbthumbnail.png",
-    "publishedAt": "20211125T04:00:56Z",
-    "content": "Patients in the U.S. healthcare system often feel theyre treated with a lack of empathy. Doctors and nurses have tragically high levels of burnout. Could fixing the first problem solve the second? An… [+49513 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Filipe Espósito",
-    "title": "Spotify now trying to take on TikTok with vertical feed of music videos",
-    "description": "We have seen several apps like Instagram and YouTube replicating the TikTok style with a vertical short video feed, and now Spotify is also joining this list. The company has been testing a new feature in its mobile app that basically adds a vertical feed of …",
-    "url": "https://9to5mac.com/2021/11/24/spotifytriestotakeontiktokwithverticalvideos/",
-    "urlToImage": "https://i2.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2021/09/Spotify.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "20211125T00:25:02Z",
-    "content": "We have seen several apps like Instagram and YouTube replicating the TikTok style with a vertical short video feed, and now Spotify is also joining this list. The company has been testing a new featu… [+1439 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (Christine McKee)",
-    "title": "Black Friday deals: 14\" MacBook Pro $1,799, 16\" $2,199, $120 to $150 off M1 MacBooks, AppleCare savings",
-    "description": "Black Friday officially starts now at Adorama, with exclusive discounts knocking up to $300 off 2021 MacBook Pros, Apple's M1 MacBook Air, Mac mini, and more. Even AppleCare is discounted during the Thanksgiving blowout event.Black Friday Mac deals\r\nApple Aut…",
-    "url": "https://appleinsider.com/articles/21/11/25/blackfridaydeals14macbookpro1799162199120to150offm1macbooksapplecaresavings",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/4582689138blackfridayappledealsmacsxl.jpg",
-    "publishedAt": "20211125T02:07:22Z",
-    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+3100 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Gizmodo.jp"
-    },
-    "author": "塚本直樹",
-    "title": "iPhoneで運転免許書が提示できる未来、少し遅れます",
-    "description": "Image:Apple日本でも早くー。iOS15での目玉機能の一つでもある、アメリカにおける運転免許証や身分証明書のデジタル提示機能。こちら残念ながら、年内に予定されていた機能提供が2022年初旬へと延期されてしまいました。便利そうな機能なのですが…。iOS15におけるデジタル身分証明書機能はもともと、アメリカのアリゾナ州やジョージア州、そしてそれに連なる複数の州から導入される予定でした。このよう",
-    "url": "https://www.gizmodo.jp/2021/11/ios15walletidfeaturedelay.html",
-    "urlToImage": "https://assets.mediaplatform.com/gizmodo/dist/images/2021/11/24/21060802141w960.jpg",
-    "publishedAt": "20211125T02:00:00Z",
-    "content": "iOS 152022\r\niOS 15\r\nAppleTSAiPhoneApple WatchIDTAS\r\nDIA\r\nSource: Apple via MacRumors"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Gizmodo.jp"
-    },
-    "author": "そうこ",
-    "title": "Facebookやめちゃう？ 代わりに使える機能別サービスまとめてみた",
-    "description": "Facebookをやめたいと思っている人のために、写真やスケジュール管理など使える代わりのWebサービスを紹介。",
-    "url": "https://www.gizmodo.jp/2021/11/recommendedwebservicesforwhowanttoquitfb.html",
-    "urlToImage": "https://assets.mediaplatform.com/gizmodo/dist/images/2021/11/24/211124fbalternativesw960.jpg",
-    "publishedAt": "20211125T03:00:00Z",
-    "content": "Facebook\r\nFacebook FacebookFB \r\nGoogle Photos\r\nScreenshot: Google Photos\r\nApple iCloudDropboxMicrosoft OneDriveGoogle PhotosGoogle Photos\r\nAndroid/iOSiCloud Photos LibraryWindows/OSAppleiCloudFaceboo… [+618 chars]"
-    },
-    {
-    "source": {
-    "id": "engadget",
-    "name": "Engadget"
-    },
-    "author": "Kiyoshi Tane",
-    "title": "アップル、スパイウェア企業NSOグループを提訴。国家が人権活動家などの監視・攻撃に使うPegasusを開発",
-    "description": "アップルは23日、iPhoneやAndroid端末のユーザーを攻撃・監視する高度なスパイウェア「Pegasus」を開発したイスラエル企業NSOグループを提訴したことを発表しました。",
-    "url": "https://japanese.engadget.com/applesuesnsogrouppegasus030410296.html",
-    "urlToImage": "https://s.yimg.com/os/creatruploadedimages/202111/707631704d9611ec897cdf9ea29a5861",
-    "publishedAt": "20211125T03:04:10Z",
-    "content": "23iPhoneAndroidPegasusNSO\r\nNSO\r\nPegasus\r\n7\r\nNSO\r\nPegasus\r\niOS\r\nPegasusAndroid\r\nApple IDPegasusPegasus\r\nBlastDooriOS 15\r\nNSOPegasusiOS 15\r\niPhonePegasus\r\n1000Pegasus\r\nSource:Apple\r\nvia:9to5Mac"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Android Community"
-    },
-    "author": "Ida Torres",
-    "title": "Xiaomi may launch an athome repair service in India",
-    "description": "Xiaomi tweeted out a teaser about what they’re coming up with next in India. Based on the not so cryptic post, they are coming up with a new care program, putting repeated emphasis on the words “you” and “care”. And based on the attached image, it may be conn…",
-    "url": "https://androidcommunity.com/xiaomimaylaunchanathomerepairserviceinindia20211124/",
-    "urlToImage": "https://androidcommunity.com/wpcontent/uploads/2021/11/ScreenShot20211125at11.16.41AM.jpg",
-    "publishedAt": "20211125T03:19:03Z",
-    "content": "Xiaomi tweeted out a teaser about what they’re coming up with next in India. Based on the not so cryptic post, they are coming up with a new care program, putting repeated emphasis on the words “you”… [+2170 chars]"
-    },
-    {
-    "source": {
-    "id": "techcrunch",
-    "name": "TechCrunch"
-    },
-    "author": "Carly Page,Aya Nakazato",
-    "title": "アップルがタイ、エルサルバドル、ウガンダでNSO GroupのiPhoneハッキング被害者に注意喚起",
-    "description": "Apple（アップル）は、イスラエルのスパイウェアメーカーであるNSO Group（エヌエスオー・グループ）を<a target=\"_blank\" href=\"https://jp.techcrunch.com/2021/11/24/20211123applensogrouplawsuit/\" rel=\"noopener\">提訴</a>した数時間後に、タイ、エルサルバドル、ウガンダの国家ぐるみのハッカーの被害者に脅威通知アラートを送信した。\r\n\r\n関連記事：<a target=\"_blank\" hre…",
-    "url": "https://jp.techcrunch.com/2021/11/25/20211124applensohackingnotify/",
-    "urlToImage": "https://jp.techcrunch.com/wpcontent/uploads/2021/11/nsoiphonehack.jpg?w=1024",
-    "publishedAt": "20211125T00:30:05Z",
-    "content": "AppleNSO Group\r\niPhonePegasusNSO Group\r\nPrajak KongkiratiSarinee AchananuntakuliLawYingcheep Atchanont6Citizen Lab2018Pegasus\r\nAppleEl Faro1222\r\nTwitter\r\nAppleAppleApple IDiPhone\r\nApple1123NSO GroupA… [+112 chars]"
-    },
-    {
-    "source": {
-    "id": "techcrunch",
-    "name": "TechCrunch"
-    },
-    "author": "Takashi Higa",
-    "title": "Natureが新製品「Nature Remo mini 2 Premium – Nature Blue」発売、コーポレートカラーで同社ミッションを表現",
-    "description": "<a target=\"_blank\" href=\"https://nature.global/\" rel=\"noopener\">Nature</a>（ネイチャー）は11月25日、コーポレートカラー「Nature Blue」を用い、同社ミッション「自然との共生をドライブする」を表現したスマートリモコン「<a target=\"_blank\" href=\"https://nature.global/natureremo/natureremomini/\" rel=\"noopener\">Nature Remo min…",
-    "url": "https://jp.techcrunch.com/2021/11/25/natureremomini2premiumnatureblue/",
-    "urlToImage": "https://jp.techcrunch.com/wpcontent/uploads/2021/11/20211125001index.jpg?w=1024",
-    "publishedAt": "20211125T01:53:30Z",
-    "content": "Nature1125Nature BlueNature Remo mini 2 Premium – Nature BlueRemo2N26980WiFi11n2.4GHzBluetooth Low Energy58×58×16mm23g\r\nNature RemoGoogle HomeAmazon EchoApple HomePod\r\nNature Remo mini 2 Premium – … [+125 chars]"
-    },
-    {
-    "source": {
-    "id": "techcrunch",
-    "name": "TechCrunch"
-    },
-    "author": "Aisha Malik,Akihito Mizukoshi",
-    "title": "Redditがショート動画のDubsmashを停止、動画ツールを自社アプリに統合",
-    "description": "Reddit（レディット）は、TikTok（ティックトック）のような短編動画プラットフォームである「Dubsmash（ダブスマッシュ）」を2022年2月22日に<a target=\"_blank\" href=\"https://www.redditinc.com/blog/bringingmoreofdubsmashtoredditbylaunchingnewvideofeatures\" rel=\"noopener\">停止</a>する。同社によると、2月以降、DubsmashはApple App…",
-    "url": "https://jp.techcrunch.com/2021/11/25/20211123redditisshuttingdowndubsmashandintegratingvideotoolsintoitsownapp/",
-    "urlToImage": "https://jp.techcrunch.com/wpcontent/uploads/2021/11/redditappiconios.jpg?w=990",
-    "publishedAt": "20211125T01:15:25Z",
-    "content": "RedditTikTokDubsmash20222222DubsmashApple App StoreGoogle Play Store\r\n202012DubsmashRedditDubsmashReddit1RedditDubsmashDubsmashReddit\r\nDubsmashReddit RedditRedditRedditReddit\r\nReddit\r\nReddit8iOSTikTo… [+212 chars]"
-    },
-    {
-    "source": {
-    "id": "techcrunch",
-    "name": "TechCrunch"
-    },
-    "author": "Steve Dent,Nariko Mizoguchi",
-    "title": "テスラが完全自動運転のテスターに事故時の映像収集の許可を求める",
-    "description": "Tesla（テスラ）の最新のFSD（<a target=\"_blank\" href=\"https://www.engadget.com/teslafullselfdriving10beta145035031.html\" rel=\"noopener\">Full SelfDriving</a>、完全自動運転）では、事故や「重大な安全上のリスク」が発生した場合に、車外と車内のカメラで撮影された映像を同社が収集することへの同意をドライバーに求めている。<a target=\"_blank\" href=\"htt…",
-    "url": "https://jp.techcrunch.com/2021/11/25/20211124teslarequiresfullselfdrivingtesterstoallowvideocollectionincaseofacrash/",
-    "urlToImage": "https://jp.techcrunch.com/wpcontent/uploads/2021/11/Tesla4.jpeg?w=1024",
-    "publishedAt": "20211125T02:15:20Z",
-    "content": "TeslaFSDFull SelfDrivingElectrek\r\nTeslaFSDAIFSDTeslaVIN\r\nFSDTeslaVIN\r\nElectrekFSDTesla\r\nFSD 10.3CEOElon MuskQA\r\n113FSDFSDModel Y\r\nTesla98100199230001115FSD24\r\nEngadgetSteve DentEngadget\r\nTesla\r\nStev… [+21 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "TMZ"
-    },
-    "author": "TMZ Staff",
-    "title": "Travis Scott Golfs in CA with Michael Jordan, First Outing Since Astroworld",
-    "description": "Travis Scott is finally venturing out of his Houston home after the Astroworld tragedy ... flying to SoCal to golf with some Alist friends and spend the holiday weekend with family. Travis hit the links this week with Michael Jordan, Mark Wahlberg…",
-    "url": "https://www.tmz.com/2021/11/24/travisscottgolfmichaeljordanmarkwahlbergpalmspringsastroworldtragedy/",
-    "urlToImage": "https://imagez.tmz.com/image/d4/16by9/2021/11/25/d496df3913614c029a4c2561c7e24a80_xl.jpg",
-    "publishedAt": "20211125T02:00:14Z",
-    "content": "Travis Scott is finally venturing out of his Houston home after the Astroworld tragedy ... flying to SoCal to golf with some Alist friends and spend the holiday weekend with family.\r\nTravis hit the … [+1329 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Wwwhatsnew.com"
-    },
-    "author": "Miriam Schuager",
-    "title": "Shazam para iOS tiene una nueva dinámica que mejora la identificación de canciones",
-    "description": "Hay varias aplicaciones que podemos tener en el móvil para identificar canciones. Pero sin dudas, Shazam es una de las favoritas. Y si bien a veces tarda en reconocer canciones o no logra identificarlas, puede ofrecer un margen de mejora gracias a su última a…",
-    "url": "https://wwwhatsnew.com/2021/11/25/shazamparaiostieneunanuevadinamicaquemejoralaidentificaciondecanciones/",
-    "urlToImage": "https://wwwhatsnew.com/wpcontent/uploads/2020/12/Shazam.jpg",
-    "publishedAt": "20211125T03:07:51Z",
-    "content": "Hay varias aplicaciones que podemos tener en el móvil para identificar canciones. Pero sin dudas, Shazam es una de las favoritas.\r\nY si bien a veces tarda en reconocer canciones o no logra identifica… [+1545 chars]"
-    },
-    {
-    "source": {
-    "id": "lenta",
-    "name": "Lenta"
-    },
-    "author": "Марина Совина",
-    "title": "Российские мошенники активизировались перед «черной пятницей»",
-    "description": "Доля фишинговых электронных писем в период распродаж на «черной пятнице» вырастает со среднестатистических 35 процентов до 2030 процентов. В период за неделю до и неделю после распродаж во всем мире резко активизируются мошенники и фейковые сайты, а доля фи…",
-    "url": "https://lenta.ru/news/2021/11/25/friday/",
-    "urlToImage": "https://icdn.lenta.ru/images/2021/11/25/06/20211125061317083/share_3720bc4c27b0d5626bfb6ea82bfc5805.jpg",
-    "publishedAt": "20211125T03:17:04Z",
-    "content": "« » 35 2030 . ESET .\r\n , , .  , , Android Pay Apple Pay .\r\n« , », , , .\r\n « » , « » . , , . , . , , , , ."
-    },
-    {
-    "source": {
-    "id": "lenta",
-    "name": "Lenta"
-    },
-    "author": "Марина Совина",
-    "title": "Психотерапевт назвал способы избежать лишних покупок в «черную пятницу»",
-    "description": "Психотерапевт медицинского онлайнсервиса «СберЗдоровье» Виктор Нурдаев назвал способы избежать лишних покупок в «черную пятницу». По его словам, от импульсивных приобретений может избавить взятая для анализа пауза или физические нагрузки. Он отметил, что сам…",
-    "url": "https://lenta.ru/news/2021/11/25/lishnie_pokupki/",
-    "urlToImage": "https://icdn.lenta.ru/images/2021/11/25/07/20211125070930440/share_a60c2d8787acf6cd2a6cee9ca3930398.jpg",
-    "publishedAt": "20211125T04:13:01Z",
-    "content": " «» « ». , , .\r\n , . , .\r\n« , , , », .\r\n . , .\r\n , , . ,  , , . , , , ,  .\r\n ESET , « » 35 2030 .\r\n  , , Android Pay Apple Pay ."
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Slickdeals.net"
-    },
-    "author": "energyx",
-    "title": "Apple iPhone 12 Mini 64GB Total Wireless (Locked) Walmart $299",
-    "description": "Walmart has *64GB Apple iPhone 12 Mini Prepaid Smartphone for Total Wireless* (Various Colors) on sale for *$299*. *Shipping is free*. \n \nThanks to community member *energyx* for finding this deal. \n...",
-    "url": "https://slickdeals.net/f/15431329appleiphone12mini64gbtotalwirelesslockedwalmart299",
-    "urlToImage": "https://static.slickdealscdn.com/attachment/3/9/4/5/6/10856710.attach",
-    "publishedAt": "20211125T03:41:45Z",
-    "content": "Same Deal as Straight Talk versionhttps://www.walmart.com/ip/Total.../208962746\r\n5.4\" Super Retina XDR display2Ceramic Shield, tougher than any smartphone glass5G for superfast downloads and highqu… [+497 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Cnbeta.com"
-    },
-    "author": "study875",
-    "title": "下代Mac Pro顶配芯片将由4个M1 Max组成 售价将超过5万美元",
-    "description": "援引知名爆料人士马克·格鲁曼（Mark Gruman）透露的信息，苹果计划在 Mac Pro 和 27 英寸 iMac 使用自研的 Apple Silicon 芯片。据悉基础型号芯片由 2 个 M1 Max 组成（M1 Max Duo），高端型号芯片则由 4 个 M1 Max 组成（M1 Max Quadro）。 阅读全文",
-    "url": "https://www.cnbeta.com/articles/tech/1207163.htm",
-    "urlToImage": "https://static.cnbetacdn.com/article/2021/1125/002b321b50b0677.webp",
-    "publishedAt": "20211125T01:24:15Z",
-    "content": "20 64 128GB Quadro Linux M1 Pro/Max Mac Hector Martin macOS Gruman \r\nMartin macOS M1 Pro/Max IRQ ///hwstateIRQ81dieid\r\n 50000 Mac Pro 55,000 60006500"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Ifanr.com"
-    },
-    "author": "方嘉文",
-    "title": "早报 | B 站回应「自动续费提前扣款」/ 腾讯回应旗下 App 暂停更新 /《长津湖》成中国影史票房冠军",
-    "description": "‍• 苹果或于 2023 年推出自有 5G 基带芯片\n• 花呗宣布启动品牌隔离#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
-    "url": "https://www.ifanr.com/1456572",
-    "urlToImage": "https://s3.ifanr.com/wpcontent/uploads/2021/11/20210327_wbp502.jpg",
-    "publishedAt": "20211125T01:08:25Z",
-    "content": "11 25 \r\nB \r\n<ul><li>B </li><li> App </li><li> 2</li><li>Elvie </li><li> 2023 5G </li><li></li><li></li><li>Model 3/Y 4752 </li><li></li><li> 2028 </li><li> Blue Bottle Coffee </li><li>Burberry </li><… [+623 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Cnbeta.com"
-    },
-    "author": "ugmbbc",
-    "title": "苹果自助维修计划公开：告别天价维修时代 手把手教你修手机、换电池",
-    "description": "一向神秘的苹果产品，现在终于做好准备要跟普通消费者们“坦诚相见”了。上周，苹果正式官宣了一个消费者自助维修计划，将允许普通消费者通过获取苹果官方原装零件与工具来自行修理设备，包括更换屏幕、电池和摄像头等。这也是史上第一次，苹果愿意把维修权交还给普通消费者，打破其对自家产品维修链条的绝对控制。 阅读全文",
-    "url": "https://www.cnbeta.com/articles/tech/1207159.htm",
-    "urlToImage": "http://n.sinaimg.cn/tech/crawl/62/w550h312/20211125/566a8756c812f39d1ff3bed9c49c50538caf.png",
-    "publishedAt": "20211125T01:14:28Z",
-    "content": "iPhone 13799365\r\niPhone 13\r\nApple Care\r\nSelf  Service RepairiPhone 1213Mac\r\niPhoneiPhone 12iPhone 13 200 \r\nDIY\r\n (AASP)Apple Store (IRP)IRP\r\n2019 IRP20213 200 \r\niPhone\r\nTwitter\r\nDIY\r\nDIY\r\nApple Stor… [+142 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Itmedia.co.jp"
-    },
-    "author": "MACお宝鑑定団",
-    "title": "Apple正規販売代理店に、NTT東日本、富士フイルムビジネスイノベーションが加わる　iPad、Macの導入支援が可能に",
-    "description": "Apple VARに東日本電信電話と富士フイルムビジネスイノベーションが加わった。",
-    "url": "https://www.itmedia.co.jp/news/articles/2111/25/news083.html",
-    "urlToImage": "https://image.itmedia.co.jp/news/articles/2111/25/l_koya_applevar.png",
-    "publishedAt": "20211125T01:20:00Z",
-    "content": "AppleValue Added ResellerApple VARApple VAR22\r\nNTTiPadMaciPhone\r\nCopyright (C) 1998 Mac Treasure Tracing Club. All rights reserved.\r\nITmedia NEWS IDITmedia NEWS"
-    }
+      {
+        "source": {
+          "id": "news24",
+          "name": "News24"
+        },
+        "author": "Compiled by Craig Taylor",
+        "title": "Proteas to continue taking the knee against Netherlands, India",
+        "description": "Cricket South Africa has confirmed that the Proteas will continue to take the knee before matches during the upcoming home summer season.",
+        "url": "https://www.news24.com/sport/Cricket/Proteas/proteas-to-continue-taking-the-knee-against-netherlands-india-20211124",
+        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/1213/aab4c47f373744a0b07c6a4ce5c67e8f.jpg",
+        "publishedAt": "2021-11-24T20:58:48+00:00",
+        "content": "Cricket South Africa has confirmed that the Proteas will continue to take the knee before matches during the upcoming home summer season.\r\nThe Proteas taking the knee was a nationally emotive issue a… [+1616 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
     ]
-    }
+  }
